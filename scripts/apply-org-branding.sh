@@ -4,7 +4,7 @@ set -euo pipefail
 ORG=Syncore-Tech
 
 gh api -X PATCH "orgs/$ORG" \
-  -f name='Syncore JSC' \
+  -f name='Syncore Technology JSC' \
   -f description='AI integration, AI agents & legacy system modernization for the systems you already run. Innovating your legacy. 🇻🇳' \
   -f blog='https://syncore.vn' \
   -f location='Vietnam' \

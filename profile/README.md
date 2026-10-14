@@ -5,7 +5,7 @@
   </picture>
 </a>
 
-# Syncore JSC: AI integration & AI agents for the systems you already run
+# Syncore Technology JSC: AI integration & AI agents for the systems you already run
 
 **Syncore** is a software company in Vietnam that brings AI, AI agents and automation into a company's existing ERP, CRM and data. We build on the systems that already make you money instead of rebuilding from scratch.
 
@@ -45,6 +45,6 @@ You see it working before you sign the quote.
 
 ### 🇻🇳 Tiếng Việt
 
-**Syncore JSC** giúp doanh nghiệp **tích hợp AI và AI Agent vào hệ thống đang chạy** (ERP, CRM, dữ liệu, quy trình) mà không cần xây lại từ đầu. Dịch vụ: phát triển AI Agent, tích hợp AI và chatbot RAG trên tài liệu nội bộ, hiện đại hoá phần mềm cũ, tự động hoá quy trình và đồng bộ dữ liệu. Tuân thủ Nghị định 13/2023 về bảo vệ dữ liệu cá nhân.
+**Syncore Technology JSC** giúp doanh nghiệp **tích hợp AI và AI Agent vào hệ thống đang chạy** (ERP, CRM, dữ liệu, quy trình) mà không cần xây lại từ đầu. Dịch vụ: phát triển AI Agent, tích hợp AI và chatbot RAG trên tài liệu nội bộ, hiện đại hoá phần mềm cũ, tự động hoá quy trình và đồng bộ dữ liệu. Tuân thủ Nghị định 13/2023 về bảo vệ dữ liệu cá nhân.
 
 👉 [syncore.vn](https://syncore.vn/vi?utm_source=github&utm_medium=org_profile&utm_campaign=brand) · [Đặt lịch tư vấn 30 phút](https://calendly.com/paul-syncore/30min)
