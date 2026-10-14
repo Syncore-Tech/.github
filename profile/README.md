@@ -32,7 +32,6 @@ You see it working before you sign the quote.
 
 - **Hospital information system for cleft lip and palate care** (MSC, Van Lang University). We took over an unfinished HIS and completed it: digital clinical forms, treatment rules by age band and specialty, and a pilot on synthetic data before any real patient data.
 - **AI sales-coaching platform for real estate agents** (Horizon Realty, Austin, TX). An AI plays the prospect so agents can rehearse cold calls and objections. Integrated with the Follow Up Boss CRM, shipped as a web app and iOS PWA.
-- **Products we helped design and build:** ELIBOT (AI desktop companion), AiriGo (robotics), Epic Ring (AI accessories), Raybit (health & wellness).
 
 ## Open source
 
