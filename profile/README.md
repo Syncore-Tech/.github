@@ -17,7 +17,7 @@
 | --- | --- |
 | **AI agent development** | Agents that do real work inside your systems: look up orders, draft quotes, triage requests, update the CRM. Tool use (function calling, MCP), role-based access, human approval and a full audit trail. |
 | **AI integration for existing systems** | RAG assistants that answer from your own documents and data. Connectors for ERP, CRM, Google Workspace and Lark. Model chosen by evidence: Claude, GPT or open source. |
-| **Legacy system modernization** | Take over unfinished or aging software and upgrade it piece by piece, without stopping the business that runs on it. Compliant with Vietnam's Decree 13/2023 on personal data. |
+| **Legacy system modernization** | Take over unfinished or aging software and upgrade it piece by piece, without stopping the business that runs on it. Compliant with Vietnam's 2025 Personal Data Protection Law and Decree 356/2025. |
 | **Workflow automation & data sync** | Bring scattered data into one trusted source and automate data entry, reconciliation and reporting. |
 
 ## How we work: Sync → Standardize → Extend
@@ -45,6 +45,6 @@ You see it working before you sign the quote.
 
 ### 🇻🇳 Tiếng Việt
 
-**Syncore Technology JSC** giúp doanh nghiệp **tích hợp AI và AI Agent vào hệ thống đang chạy** (ERP, CRM, dữ liệu, quy trình) mà không cần xây lại từ đầu. Dịch vụ: phát triển AI Agent, tích hợp AI và chatbot RAG trên tài liệu nội bộ, hiện đại hoá phần mềm cũ, tự động hoá quy trình và đồng bộ dữ liệu. Tuân thủ Nghị định 13/2023 về bảo vệ dữ liệu cá nhân.
+**Syncore Technology JSC** giúp doanh nghiệp **tích hợp AI và AI Agent vào hệ thống đang chạy** (ERP, CRM, dữ liệu, quy trình) mà không cần xây lại từ đầu. Dịch vụ: phát triển AI Agent, tích hợp AI và chatbot RAG trên tài liệu nội bộ, hiện đại hoá phần mềm cũ, tự động hoá quy trình và đồng bộ dữ liệu. Tuân thủ Luật Bảo vệ dữ liệu cá nhân 2025 và Nghị định 356/2025/NĐ-CP.
 
 👉 [syncore.vn](https://syncore.vn/vi?utm_source=github&utm_medium=org_profile&utm_campaign=brand) · [Đặt lịch tư vấn 30 phút](https://calendly.com/paul-syncore/30min)
